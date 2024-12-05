@@ -9,3 +9,5 @@
 * `testapp.Core`: Independent common component project includes MVVM `Model` code.
 * `testapp.UI`: UI (independent platform) project includes MVVM `View` and `ViewModel` code.
 * `testapp.[Android|iOS|UWP]`: The application (each platform) project code.
+=======
+# xamarin
